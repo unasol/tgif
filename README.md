@@ -15,3 +15,7 @@ Al mismo tiempo, otros miembros pueden votar por las temas con reacciones.
 1. Ingresa a https://github.com/unasol/tgif/issues/new
 2. Registra un issue como tema con el tópico y una descripción.
 3. Asignar el label workshop.
+
+Únete a nosotros en:
+
+<a href="https://discord.gg/bRCvFy9"><img src="https://discordapp.com/api/guilds/344548968430305290/embed.png" alt="Discord server" /></a>
