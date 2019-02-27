@@ -18,4 +18,4 @@ Al mismo tiempo, otros miembros pueden votar por las temas con reacciones.
 
 Únete a nosotros en:
 
-<a href="https://discord.gg/bRCvFy9"><img src="https://discordapp.com/api/guilds/344548968430305290/embed.png" alt="Discord server" /></a>
+<a href="https://discord.gg/2H2X9Dx"><img src="https://discordapp.com/api/guilds/344548968430305290/embed.png" alt="Discord server" /></a>
